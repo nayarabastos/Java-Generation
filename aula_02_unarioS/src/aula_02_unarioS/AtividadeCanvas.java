@@ -37,7 +37,7 @@ public class AtividadeCanvas {
 		
 		float media = ((nota1+nota2+nota3+nota4)/4);
 		
-		System.out.printf("\nA sua média final ficou: %.2f",media);
+		System.out.printf("A sua média final ficou: %.2f",media);
 		
 		
 		//Atividade 3
