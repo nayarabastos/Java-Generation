@@ -8,6 +8,8 @@ public class AtvCanvasCondicionalSwitch {
 		
 		 Scanner leia = new Scanner(System.in);
 
+		 	//Atividade 5
+		 	System.out.println("*****Atividade 05*****");
 	        int codigo, quantidade;
 	        String produto = "";
 	        double preco = 0, total;
@@ -59,6 +61,9 @@ public class AtvCanvasCondicionalSwitch {
 	        System.out.println("\nProduto: " + produto);
 	        System.out.printf("Valor total: R$ %.2f%n", total);
 	        
+	        
+	        //Atividade 07
+	        System.out.println("*****Atividade 07*****");
 	        float numero1, numero2, resultado;
 	        int operacao;
 

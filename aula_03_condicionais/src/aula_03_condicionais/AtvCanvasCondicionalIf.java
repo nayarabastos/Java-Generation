@@ -7,6 +7,7 @@ public class AtvCanvasCondicionalIf {
 	public static void main(String[] args) {
 		Scanner leia = new Scanner(System.in);
 		
+		System.out.println("*****Atividade 01*****");
 		System.out.println("Digite o número A: ");
 		int a = leia.nextInt();
 		
@@ -29,6 +30,8 @@ public class AtvCanvasCondicionalIf {
 			System.out.println("A Soma de A + B é igual a C");
 		}
 
+		
+		System.out.println("*****Atividade 02*****");
 		System.out.println("Digite um número inteiro: ");
 		int numero = leia.nextInt();
 		
