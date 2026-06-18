@@ -1,4 +1,4 @@
-package aula_02_unarioS;
+package aula_02_unarios;
 
 public class OperadoresUnarios {
 

@@ -39,8 +39,8 @@ public class AtividadeCanvasVetor {
 		System.out.println("\n*****Exercício 02*****");
 		
 		int vetorInt[] = new int[10];
-		int numInt,numImpar,numPar;
 		float soma = 0;
+		float media;
 		
 		for(int contador = 0; contador < vetorInt.length; contador++) {
 			soma += vetorInt[contador];
@@ -63,6 +63,7 @@ public class AtividadeCanvasVetor {
 		}
 		
 		
+		System.out.println(soma);
 		
 		
 		leia.close();

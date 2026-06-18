@@ -9,8 +9,8 @@ public class AtividadeCanvasFor {
 		Scanner leia = new Scanner(System.in);
 		
 		//Exercício 01
-		
 		System.out.println("*****Exercício 01*****");
+		
 		int primeiroNum, ultimoNum;
 		
 		System.out.println("Digite o primeiro número do intervalo: ");
@@ -35,7 +35,7 @@ public class AtividadeCanvasFor {
 		 
 		//Exercício 02
 		 
-		 System.out.println("\n*****Exercício 05*****");
+		 System.out.println("\n*****Exercício 02*****");
 		 int num,numPar = 0,numImpar = 0;
 		 
 		 for(int i =1;i <= 10;i++) {
