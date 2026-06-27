@@ -6,10 +6,11 @@ public class Funcionario {
 	private double salario;
 	
 	public Funcionario(String nome, String email, double salario) {
-		super();
+
 		Validacao.validarNome(nome);
 		Validacao.validarEmail(email);
 		Validacao.validarSalario(salario);
+		
 		this.nome = nome;
 		this.email = email;
 		this.salario = salario;
